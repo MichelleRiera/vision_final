@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Miche\Desktop\UNI\OCTAVO\VISION\SEGUNDO INTERCICLO\PROYECTO\Vison_Practica_3_1\opencv\.cxx\Debug\3d69572g\x86'
+ninja: no work to do.

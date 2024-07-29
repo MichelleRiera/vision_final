@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1860813831
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\.cxx\\Debug\\3d69572g\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1585180159
+  },
+  {
+    "level_": 0,
+    "message_": "- force flag, will remove stale json folder",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1304752098
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\.cxx\\Debug\\3d69572g\\x86\u0027",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1403164207
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\.cxx\\Debug\\3d69572g\\x86\u0027",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 44458403
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\3d69572g\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\3d69572g\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\.cxx\\\\Debug\\\\3d69572g\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1609401378
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Miche\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\3d69572g\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\3d69572g\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Miche\\\\Desktop\\\\UNI\\\\OCTAVO\\\\VISION\\\\SEGUNDO INTERCICLO\\\\PROYECTO\\\\Vison_Practica_3_1\\\\opencv\\\\.cxx\\\\Debug\\\\3d69572g\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -847494435
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\.cxx\\Debug\\3d69572g\\x86\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1616311911
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 287969546
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\.cxx\\Debug\\3d69572g\\x86\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2067534583
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Miche\\Desktop\\UNI\\OCTAVO\\VISION\\SEGUNDO INTERCICLO\\PROYECTO\\Vison_Practica_3_1\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2068924666
+  }
+]
